@@ -14,7 +14,7 @@ Bu proje, kullanıcıların bağış yapabildiği ve yöneticinin tüm kullanıc
 
 ---
 
-##  Kurulum
+## 📦 Kurulum
 
 ### 1. Backend (Flask)
 
@@ -33,7 +33,7 @@ python app.py
 
 ---
 
-##  Veritabanı Şeması
+## 🗃️ Veritabanı Şeması
 
 ### Kullanıcılar (users)
 
@@ -57,7 +57,7 @@ python app.py
 
 ---
 
-##  Notlar
+## 📌 Notlar
 
 - JWT token, giriş sonrası PHP oturumunda saklanır ve tüm API isteklerinde `Authorization: Bearer <token>` şeklinde kullanılır.
 - Admin paneli, kullanıcı düzenleme ve bağış filtreleme işlemlerini destekler.
@@ -65,7 +65,7 @@ python app.py
 
 ---
 
-##  Geliştirici
+## 👤 Geliştirici
 
 **Ezgi Albardak**  
-Proje GitHub Linki: [(https://github.com/EzgiAlbardak/bag-s-uygulamasi))
+Proje GitHub Linki: [https://github.com/EzgiAlbardak/bag-s-uygulamasi](https://github.com/EzgiAlbardak/bag-s-uygulamasi)
