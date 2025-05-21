@@ -33,7 +33,19 @@ python app.py
 
 ---
 
+## 🗃 Veritabanı Yedeği
+
+`database/bagis-db.backup` dosyasını pgAdmin ile import ederek örnek veritabanını içeri aktarabilirsiniz.
+
+1. pgAdmin'de yeni bir veritabanı oluşturun.
+2. Sağ tıklayın → **Restore**
+3. Format: Custom, Dosya: `bagis-db.backup`
+
+
 ## 🗃️ Veritabanı Şeması
+
+
+
 
 ### Kullanıcılar (users)
 
